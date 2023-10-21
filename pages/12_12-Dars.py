@@ -20,6 +20,6 @@ print(bulinma_butun_qismi)
 st.code(code, language='python')
 
 st.write("**Natija**:")
-st.image("images/12_dars_natija.png")
+st.image("images/12_dars_natija.PNG")
 st.write("**Yangi funksiyalar**:")
 st.write("**abs(a)** - a sonning absalyut qiymatini chiqaruvchi funksiya. ")
