@@ -31,6 +31,6 @@ print(f"Tozalangan to'plam:{A}")
 '''
 st.code(code, language='python')
 st.write("**Natija**:")
-st.image("images/7_dars_natija.png")
+st.image("images/7_dars_natija.PNG")
 st.write("**Yangis funksiyalar** :")
 st.write("**del ()** - massiv ichidagi ko'rsatilgan elementni o'chiruvchi funksiya.")
