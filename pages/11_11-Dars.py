@@ -17,6 +17,6 @@ print(matn_massive[uzunlik-1])
 st.code(code, language='python')
 
 st.write("**Natija**:")
-st.image("images/11_dars_natija.png")
+st.image("images/11_dars_natija.PNG")
 st.write("**Yangi funksiyalar**:")
 st.write("**.split(' ')** - bu funksiya **(' ')** ichiga kiritgan belgi bo'yicha massiv elemntlariga ajratib beradi . ")
