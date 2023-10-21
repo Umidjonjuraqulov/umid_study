@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title='Umid Study', page_icon='⚡️', layout='wide')
+st.set_page_config(page_title='Umid Study', page_icon='🎓')
 
 col1,col2,col3 = st.columns((1, 2, 7))
 col3.title(" Xush kelibsiz ! ")
