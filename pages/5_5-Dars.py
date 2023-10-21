@@ -31,6 +31,6 @@ for i in range(1,int(q)):
 '''
 st.code(code, language='python')
 st.write("**Natija**:")
-st.image("images/5_dars_natija.png")
+st.image("images/5_dars_natija.PNG")
 st.write("**Yangis funksiyalar** :")
 st.write("**append()** - massiv ichiga element qo'shuvchi funksiya")
