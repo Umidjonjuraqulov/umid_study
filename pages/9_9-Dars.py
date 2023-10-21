@@ -21,5 +21,5 @@ for i in range(0,L):
 st.code(code, language='python')
 
 st.write("**Natija**:")
-st.image("images/9_dars_natija.png")
+st.image("images/9_dars_natija.PNG")
 st.write("**Yangi funksiyalar**:")
