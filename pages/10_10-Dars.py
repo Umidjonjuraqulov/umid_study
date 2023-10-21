@@ -24,5 +24,5 @@ print(massiv_natija)
 '''
 st.code(code, language='python')
 st.write("**Natija**:")
-st.image("images/10_dars_natija.png")
+st.image("images/10_dars_natija.PNG")
 st.write("**Yangi funksiyalar** :")
