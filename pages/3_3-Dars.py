@@ -29,6 +29,6 @@ print(f"O'rtacha qiymati:{p}")
 '''
 st.code(code, language='python')
 st.write("**Natija**:")
-st.image("images/3_dars_natija.png")
+st.image("images/3_dars_natija.PNG")
 st.write("**Yangi funksiyalar** :")
 st.write("")
