@@ -4,7 +4,7 @@ import streamlit as st
 savol=("Kiritilgan raqamlar orasida 1 raqami necha marta takrorlanganini chiqaruvchi dastur tuzing.")#savol matnini kiriting
 
 col1,col2 = st.columns((1, 7))
-col1.image("images/leetcode_logo.png")
+col1.image("images/leetcode_logo.PNG")
 col2.write(f"**Savol**.{savol} ")
 
 st.write("**Yeshim**:")
