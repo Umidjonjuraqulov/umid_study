@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-savol=("***** dan romp shaklini yasovchi dartur tuzing.")#savol matnini kiriting
+savol=("* dan romp shaklini yasovchi dartur tuzing.")#savol matnini kiriting
 
 col1,col2 = st.columns((1, 7))
 col1.image("images/leetcode_logo.png")
@@ -20,4 +20,4 @@ for i in range(n-1,0,-1):
 st.code(code, language='python')
 
 st.write("**Natija**:")
-st.image("images/16_dars_natija.PNG")
+st.image("images/16_dars_natija.png")
