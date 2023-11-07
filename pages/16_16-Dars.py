@@ -20,4 +20,4 @@ for i in range(n-1,0,-1):
 st.code(code, language='python')
 
 st.write("**Natija**:")
-st.image("images/16_dars_natija.PNG
+st.image("images/16_dars_natija.PNG")
